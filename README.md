@@ -27,6 +27,9 @@
 
 ![Screenshot 2024-10-21 235926](https://github.com/user-attachments/assets/556b42de-bb18-43b4-bcf9-57e99e3a5f37)
 
+![Screenshot 2024-10-22 000059](https://github.com/user-attachments/assets/55db8ba9-292f-4284-9731-7f233c18dced)
+
+
 ## Introduction
 The **Weather Monitoring System** is a web application that provides real-time weather data for major cities in India, including Delhi, Mumbai, Chennai, Bangalore, Kolkata, and Hyderabad. The application fetches weather data from the OpenWeatherMap API and displays it in an interactive dashboard. Users can search for specific cities to view their current weather conditions and temperature trends.
 
