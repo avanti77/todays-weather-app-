@@ -57,7 +57,7 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sameer0288/weather-monitoring-system.git
+   git clone https://github.com/avanti77/weather-monitoring-system.git
    cd weather-monitoring-system
 
 # Weather Monitoring System
